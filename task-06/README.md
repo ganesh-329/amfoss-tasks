@@ -1,7 +1,7 @@
 # Flame Game
 Up until now, this was one of the hardest tasks I came across.
 
-Although this is not the first time I've heard about **Flutter**, i 've many challenges while installing it.
+Although this is not the first time I've heard about **Flutter**, I 've many challenges while installing it.
 
 But, I think that I learned a lot from this task.
 
