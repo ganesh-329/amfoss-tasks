@@ -9,7 +9,7 @@ Overall, this task was an excellent learning experience.
 
 
 Attaching the Screenshots
-!Screenshot_1[Screenshot.png]
+![Screenshot_1](Screenshot.png)
 
 
-!Screenshot_2[Screenshot1.png]
+![Screenshot_2](Screenshot1.png)
