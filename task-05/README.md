@@ -13,3 +13,4 @@ There was a small issue with installing .NET, but I found the appropriate [link]
 
 Those who do follow the link, please note that it is for Ubuntu 22.04 only :blush:.
 
+![GIF](Screencast.gif)
