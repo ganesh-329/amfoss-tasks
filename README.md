@@ -1,6 +1,6 @@
 # amfoss-tasks
 ## Ganesh Krishna
-#### I am Ganesh Krishna,from Pandalam, Kerala. Student of AIE 2022-26 batch, Amritapuri.
+### I am Ganesh Krishna,from Pandalam, Kerala. Student of AIE 2022-26 batch, Amritapuri.
 
 
 | Tasks           | Description           | Status             |
