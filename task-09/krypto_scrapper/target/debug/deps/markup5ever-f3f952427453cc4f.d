@@ -1,0 +1,15 @@
+/home/ganesh/aamy pc/amFOSS-tasks/task-09/krypto_scrapper/target/debug/deps/markup5ever-f3f952427453cc4f.rmeta: /home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/lib.rs /home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/data/mod.rs /home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/interface/mod.rs /home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/interface/tree_builder.rs /home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/serialize.rs /home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/util/buffer_queue.rs /home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/util/smallcharset.rs /home/ganesh/aamy\ pc/amFOSS-tasks/task-09/krypto_scrapper/target/debug/build/markup5ever-cd53eb6befa17871/out/generated.rs /home/ganesh/aamy\ pc/amFOSS-tasks/task-09/krypto_scrapper/target/debug/build/markup5ever-cd53eb6befa17871/out/named_entities.rs
+
+/home/ganesh/aamy pc/amFOSS-tasks/task-09/krypto_scrapper/target/debug/deps/markup5ever-f3f952427453cc4f.d: /home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/lib.rs /home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/data/mod.rs /home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/interface/mod.rs /home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/interface/tree_builder.rs /home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/serialize.rs /home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/util/buffer_queue.rs /home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/util/smallcharset.rs /home/ganesh/aamy\ pc/amFOSS-tasks/task-09/krypto_scrapper/target/debug/build/markup5ever-cd53eb6befa17871/out/generated.rs /home/ganesh/aamy\ pc/amFOSS-tasks/task-09/krypto_scrapper/target/debug/build/markup5ever-cd53eb6befa17871/out/named_entities.rs
+
+/home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/lib.rs:
+/home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/data/mod.rs:
+/home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/interface/mod.rs:
+/home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/interface/tree_builder.rs:
+/home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/serialize.rs:
+/home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/util/buffer_queue.rs:
+/home/ganesh/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.11.0/util/smallcharset.rs:
+/home/ganesh/aamy\ pc/amFOSS-tasks/task-09/krypto_scrapper/target/debug/build/markup5ever-cd53eb6befa17871/out/generated.rs:
+/home/ganesh/aamy\ pc/amFOSS-tasks/task-09/krypto_scrapper/target/debug/build/markup5ever-cd53eb6befa17871/out/named_entities.rs:
+
+# env-dep:OUT_DIR=/home/ganesh/aamy pc/amFOSS-tasks/task-09/krypto_scrapper/target/debug/build/markup5ever-cd53eb6befa17871/out

@@ -1,0 +1,17 @@
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/bin/Debug/net6.0/Client
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/bin/Debug/net6.0/Client.deps.json
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/bin/Debug/net6.0/Client.dll
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/bin/Debug/net6.0/ref/Client.dll
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/bin/Debug/net6.0/Client.pdb
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/obj/Debug/net6.0/Client.csproj.AssemblyReference.cache
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/obj/Debug/net6.0/Client.csproj.CopyComplete
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/obj/Debug/net6.0/Client.dll
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/obj/Debug/net6.0/ref/Client.dll
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/obj/Debug/net6.0/Client.pdb
+/home/ganesh/aamy pc/amFOSS-tasks/task-05/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache

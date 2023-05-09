@@ -1,0 +1,138 @@
+
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+.w {
+  transition-duration: 0.4s;
+  box-shadow: 0 8px 16px 0 rgb(255, 255, 255), 0 6px 20px 0 rgb(255, 255, 255);
+}
+
+.w:hover {
+  background-color: #000000; 
+  color: white;
+  box-shadow: 0 8px 16px 0 rgb(0, 0, 0), 0 6px 20px 0 rgb(0, 0, 0);
+}
+
+.w:active {
+  transform: translateX(4px);
+}
+.a {
+  transition-duration: 0.4s;
+  box-shadow: 0 8px 16px 0 rgb(255, 255, 255), 0 6px 20px 0 rgb(255, 255, 255);
+}
+
+.a:hover {
+  background-color: #000000;
+  color: white;
+  box-shadow: 0 8px 16px 0 rgb(0, 0, 0), 0 6px 20px 0 rgb(0, 0, 0);
+}
+.a:active {
+  transform: translateX(4px);
+}
+.s {
+  transition-duration: 0.4s;
+  box-shadow: 0 8px 16px 0 rgb(255, 255, 255), 0 6px 20px 0 rgb(255, 255, 255);
+}
+
+.s:hover {
+  background-color: #000000; 
+  box-shadow: 0 8px 16px 0 rgb(0, 0, 0), 0 6px 20px 0 rgb(0, 0, 0);
+}
+.s:active {
+  transform: translateX(4px);
+}
+.d {
+  transition-duration: 0.4s;
+  box-shadow: 0 8px 16px 0 rgb(255, 255, 255), 0 6px 20px 0 rgb(255, 255, 255);
+}
+
+.d:hover {
+  background-color: #000000; 
+  color: white;
+  box-shadow: 0 8px 16px 0 rgb(0, 0, 0), 0 6px 20px 0 rgb(0, 0, 0)
+}
+.d:active {
+  transform: translateX(4px);
+}
+.j {
+  transition-duration: 0.4s;
+  box-shadow: 0 8px 16px 0 rgb(255, 255, 255), 0 6px 20px 0 rgb(255, 255, 255);
+}
+
+.j:hover {
+  background-color: #000000; 
+  color: white;
+  box-shadow: 0 8px 16px 0 rgb(0, 0, 0), 0 6px 20px 0 rgb(0, 0, 0);
+}
+.j:active {
+  transform: translateX(4px);
+}
+.k {
+  transition-duration: 0.4s;
+  box-shadow: 0 8px 16px 0 rgb(255, 255, 255), 0 6px 20px 0 rgb(255, 255, 255);
+}
+
+.k:hover {
+  background-color: #000000; 
+  color: white;
+  box-shadow: 0 8px 16px 0 rgb(0, 0, 0), 0 6px 20px 0 rgb(0, 0, 0)
+}
+.k:active {
+  transform: translateX(4px);
+}
+.l {
+  transition-duration: 0.4s;
+  box-shadow: 0 8px 16px 0 rgb(255, 255, 255), 0 6px 20px 0 rgb(255, 255, 255);
+}
+
+.l:hover {
+  background-color: #000000;
+  color: white;
+  box-shadow: 0 8px 16px 0 rgb(0, 0, 0), 0 6px 20px 0 rgb(0, 0, 0);
+}
+.l:active {
+  transform: translateX(4px);
+}
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
