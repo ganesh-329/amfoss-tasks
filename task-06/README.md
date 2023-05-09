@@ -13,6 +13,6 @@ This task was quite challenging and upon finishing it, it made me feel a sense o
 
 Screenshot of the Game in My Android Phone
 
-!Screenshot[https://github.com/ganesh-329/amfoss-tasks/blob/main/task-06/Screenshot.png]
+![Screenshot](https://github.com/ganesh-329/amfoss-tasks/blob/main/task-06/Screenshot.png)
 
 
